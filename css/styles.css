@@ -1,0 +1,21 @@
+html {
+    background-color: #F4E293;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 20px;
+    color: #CC0760;
+}
+
+#github {
+     padding: 50px;
+     font-size: 30px;
+     background-color: #0cdf83;
+     color: #f90505;
+     border-radius: 30%;
+     cursor: pointer;
+}
